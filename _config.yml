@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Material X
+title: Jaron's Blog
 # avatar: https://cdn.jsdelivr.net/gh/xaoxuu/assets@master/avatar/avatar.png
 subtitle:
 description:
-author: Mr.X
+author: Jaron
 timezone:
 language:
 - zh-CN
@@ -73,7 +73,7 @@ theme: material-x
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo: https://github.com/mxclub/mxclub.github.io.git
+  repo: https://github.com/JaronTF/blog.git
   branch: master
   message: update
 # >> 主题配置 ---------------------------------------------------------------------
